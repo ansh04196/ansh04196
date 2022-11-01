@@ -1,4 +1,8 @@
-<h2 align="center">Hi, I'm Ansh Chouksey  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Gantavya this side!</h1>
+
+<!-- <p align="center">
+<img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
+
 
 ![GitHub followers](https://img.shields.io/github/followers/ansh04196?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/AnshChouksey13?style=social)
@@ -11,20 +15,42 @@ I am Ansh Chouksey , currently studying computer science . I am very keen to lea
 
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
-<h3>Summary</h3>
 
-
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansh04196&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
 
 <h2>🛠Tech Stack</h2>
 
 Languages  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br/>
+### Tools
+<a href ="https://github.com/gantavyamalviya">
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" />
+<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" /> -->
+<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" /> -->
+<!-- <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/heroku.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/officexs/160/000000/java-eclipse.png"  />
+<img align="left" height="32" width="32" src="https://img.icons8.com/stickers/100/000000/github.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/officel/480/000000/react.png" />
+
+ </a>
+<br/>
+
+### Other Interests
+<a href =" https://github.com/ansh04196 ">
+
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/figma--v1.png" />
+<img align="left" height="32" width="32" src="https://img.icons8.com/color/144/000000/arduino.png" />
+</a>
+<br/>
+<br/>
+
+<h3>Summary</h3>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansh04196&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+
  
 📫Connect with me:
 
@@ -33,6 +59,13 @@ Languages
 [<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">]( https://www.instagram.com/ansh_choukseyy4264/)
 [<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/AnshChouksey13) 
 
+
+</details>
+ -->
+
+<p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-anshchouksey-red)](https://github.com/ansh04196)
 
 
 
