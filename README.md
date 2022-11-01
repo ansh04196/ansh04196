@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Gantavya this side!</h1>
+<h1 align="center"> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Howdy GitHub-er, Ansh this side!</h1>
 
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/27c7Jo2GU5tpCEQT0y/giphy.gif" width="300"> -->
@@ -60,8 +60,9 @@ Languages
 [<img src="https://user-images.githubusercontent.com/39955420/147611479-36ad6cd0-3b53-4d46-8035-0bd940e01a57.png" height="48" width="48">](mailto:anshchouksey08@gmail.com)
 [<img src="https://user-images.githubusercontent.com/39955420/147572858-093e11d5-c974-43de-9795-f328d4cda097.png" height="48" width="48">]( https://www.instagram.com/ansh_choukseyy4264/)
 [<img src="https://user-images.githubusercontent.com/39955420/147572505-a0f98499-2d13-4149-a68a-a66f7ebe0e23.png" height="48" width="48">](https://twitter.com/AnshChouksey13) 
-
-
+   
+   
+   
 </details>
  -->
 
