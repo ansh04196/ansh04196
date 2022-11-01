@@ -11,10 +11,12 @@
  <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
         
 <h2>About me</h2>
-I am Ansh Chouksey , currently studying computer science . I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.  
 
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
+  I am Ansh Chouksey , currently studying computer science . I am very keen to learn new technologies and use them to either create something useful or improve the       existing softwares.  
+
+⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains. 
+
+ 💬 Ask me anything, I will be more than happy to help :D
 
 
 <h2>🛠Tech Stack</h2>
