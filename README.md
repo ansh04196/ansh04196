@@ -19,13 +19,7 @@
  💬 Ask me anything, I will be more than happy to help :D
 
 
- My journey in the open source community has been nothing short of an incredible adventure. I believe in the transformative power of open source and the beauty of collective knowledge. It's not just about writing code; it's about creating a thriving ecosystem where individuals from diverse backgrounds can come together to build something meaningful. 🌟🤝
-
-One of my core values is the belief that the best solutions are often born from diverse and inclusive discussions. That's why I love to interact, engage, and contribute to open source projects. I've seen firsthand how open source can drive innovation and solve real-world problems, and I'm here to be a part of that journey. 🗣️💬
-
-I'm a firm believer in the idea that, in the open source community, we're not just contributors; we're members of a global family working together to make the world a better place through technology. Whether it's bug fixes, feature enhancements, or simply offering a helping hand in discussions, I'm committed to making a positive impact. 🌏🤗
-
-Let's connect, collaborate, and create a world where open source and community-driven development lead the way. Join me in this exciting journey of learning, sharing, and contributing to open source, and let's make a difference together! 😊🚀 #OpenSource #CommunityMatters #FullStackDev
+  😊🚀 #OpenSource #CommunityMatters #FullStackDev
 
 
 <h2>🛠Tech Stack</h2>
